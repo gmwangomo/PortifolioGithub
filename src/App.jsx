@@ -28,9 +28,9 @@ const siteProps = {
   title: "Software developer & Graphic designer",
   email: "gmwangomo023@gmail.com",
   gitHub: "gmwangomo",
-  instagram: "",
+  instagram: "gwakisamwangomo",
   linkedIn: "gwakisa mwangomo",
-  twitter: "microsoft",
+  twitter: "gwak",
   youTube: "gwakisa mwangomo",
 };
 
